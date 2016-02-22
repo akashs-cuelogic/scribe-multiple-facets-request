@@ -1,0 +1,1 @@
+Scribe is used to get data from the LinkedIn using its API.But current scribe version of is not supporting if we pass two facets in the request. I fixed that bug by modifying the code of scribe library. So if anyone want they can use this updated scribe library.
